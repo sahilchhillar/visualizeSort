@@ -7,7 +7,7 @@ pygame.font.init()
 myfont = pygame.font.SysFont('OpenType', 40)
 
 window = pygame.display.set_mode((900,600))
-pygame.display.set_caption("Bubble Sort")
+pygame.display.set_caption("Selection Sort")
 
 array = [0]*80
 arrayColor = [(0,204,102)]*80
